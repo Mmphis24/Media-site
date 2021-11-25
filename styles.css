@@ -1,0 +1,13 @@
+.title-detail {
+    font-style: oblique;
+    font-family: fantasy;
+    color: white;
+}
+
+.recent-list {
+    width: 50%;
+}
+
+.popular-list {
+    width: 50%;
+}
